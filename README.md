@@ -19,5 +19,5 @@ This team-oriented project was an AI-driven home security system that performs f
 
 ## Installation & Usage
 Clone the repository:
-git clone https://github.com/your-username/SmartAIHomeSurveillance.git
+git clone https://github.com/DeweyScho/SmartAIHomeSurveillance.git
 cd SmartAIHomeSurveillance
